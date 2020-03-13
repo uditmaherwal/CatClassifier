@@ -1,2 +1,2 @@
 # CatClassifier
-It will identify whether image provided is a cat or not. 
+It will identify whether image provided is of cat or not. 
